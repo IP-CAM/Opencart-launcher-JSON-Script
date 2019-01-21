@@ -1,0 +1,15 @@
+{
+    "name": "puleeno/opencart",
+    "description": "The Puleeno engine launcher for OpenCart",
+    "type": "library",
+    "require": {
+        "puleeno/engine": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ]
+}
